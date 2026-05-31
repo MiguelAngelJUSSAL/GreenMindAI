@@ -1,0 +1,1 @@
+console.log("EcoAI cargado correctamente");
